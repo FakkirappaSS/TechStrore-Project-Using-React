@@ -596,7 +596,7 @@ function App() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
-          <p className="hero-tag">New Arrivals 2025</p>
+          <p className="hero-tag">New Arrivals 2026</p>
           <h1 className="hero-title">
             The Future of Tech
             <br />
