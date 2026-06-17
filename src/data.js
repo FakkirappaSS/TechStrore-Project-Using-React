@@ -131,7 +131,7 @@ const products = [
     discount: "10% OFF",
     rating: 4.6,
     image:
-      "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-duo-oled-laptop/2.webp",
+      "https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/315208_0_fFbqS9CTa.png?updatedAt=1763015429621&tr=w-400"
   },
   {
     id: 13,
