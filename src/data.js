@@ -120,7 +120,7 @@ const products = [
     discount: "11% OFF",
     rating: 4.7,
     image:
-      "https://media-ik.croma.com/Croma%20Assets/Computers%20Peripherals/Laptop/Images/315208_0_fFbqS9CTa.png?updatedAt=1763015429621&tr=w-400"
+      "https://www.croma.com/dell-g15-5530-intel-core-i5-13th-gen-gaming-laptop-with-rgb-keyboard-16gb-512gb-ssd-windows-11-6gb-graphics-15-6-inch-120-hz-fhd-display-ms-office-2021-dark-shadow-gray-2-97-kg-/p/273309"
   },
   {
     id: 12,
