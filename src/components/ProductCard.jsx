@@ -1,6 +1,8 @@
+import { Link } from "react-router-dom";
 import "./ProductCard.css";
 
 export default function ProductCard({
+  id,
   image,
   name,
   price,
@@ -36,13 +38,15 @@ export default function ProductCard({
       </button>
 
       {/* Product Image */}
-      <div className="image-container">
+      <Link to={`/product/${id}`} className="image-container">
         <img src={image} alt={name} className="product-image" />
-      </div>
+      </Link>
 
       {/* Content */}
       <div className="card-content">
-        <h3 className="product-name">{name}</h3>
+        <Link to={`/product/${id}`} style={{ textDecoration: 'none', color: 'inherit' }}>
+          <h3 className="product-name">{name}</h3>
+        </Link>
 
         {/* Rating */}
         <div className="rating">
